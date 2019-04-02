@@ -1,0 +1,4 @@
+#Mon Apr 01 14:12:37 CDT 2019
+base.0=C\:\\Users\\wrl123u\\Desktop\\Contacts\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
